@@ -60,7 +60,7 @@ input[type="text"] {
 .list-container {
     display: grid;
     text-align: center;
-    grid-template-columns: repeat(auto-fit, 450px);
+    grid-template-columns: repeat(auto-fit, 420px);
     grid-row-gap: 5px;
     text-align: center;
     margin-top: 20px;
